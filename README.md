@@ -9,9 +9,9 @@ Rows | [![F](https://avatars1.githubusercontent.com/u/64774752?s=60&v=4)](https:
 --- | --- | --- | --- |
 **Name & Slogan** | Go Avengers: Assemble! | JS Ninja: Hi-i-i-i j-a-a-aa! |PHP Slonik: Это не шутка. |
 **Link** | [Click](https://github.com/goavengers) | [Click](https://github.com/ninja-js) | [Click](https://github.com/php-slonik) |
-**Junior**          | [x] | [ ] | [ ]
-**Interview**       | [x] | [x] | [x]
-**Alhgroritms**     | [x] | [ ] | [ ]
-**Data structures** | [x] | [ ] | [ ]
-**Playbook**        | [x] | [ ] | [ ]
+**Junior**          | :heavy_check_mark: | :heavy_exclamation_mark: |:heavy_exclamation_mark:
+**Interview**       | :heavy_check_mark: | :heavy_check_mark:       | :heavy_check_mark:
+**Alhgroritms**     | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_exclamation_mark:
+**Data structures** | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_exclamation_mark:
+**Playbook**        | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_exclamation_mark:
 
