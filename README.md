@@ -5,21 +5,13 @@
 
 ### Welcome to
 
-#### :point_right: Go Avengers: Assemble!
+Rows | [![F](https://avatars1.githubusercontent.com/u/64774752?s=60&v=4)](https://github.com/goavengers)  | [![F](https://avatars2.githubusercontent.com/u/65408106?s=60&v=4)](https://github.com/ninja-js)  | [![F](https://avatars2.githubusercontent.com/u/65562998?s=60&v=4)](https://github.com/php-slonik) 
+--- | --- | --- | --- |
+**Name & Slogan** | Go Avengers: Assemble! | JS Ninja: Hi-i-i-i j-a-a-aa! |PHP Slonik: Это не шутка. |
+**Link** | [Click](https://github.com/goavengers) | [Click](https://github.com/ninja-js) | [Click](https://github.com/php-slonik) |
+**Junior**          | [x] | [ ] | [ ]
+**Interview**       | [x] | [x] | [x]
+**Alhgroritms**     | [x] | [ ] | [ ]
+**Data structures** | [x] | [ ] | [ ]
+**Playbook**        | [x] | [ ] | [ ]
 
-[![F](https://avatars1.githubusercontent.com/u/64774752?s=60&v=4)](https://github.com/goavengers) 
-- Junior
-- Interview
-- Alhgroritms
-- Data structures
-- Playbook
-
-#### :point_right: JS Ninja: Hi-i-i-i j-a-a-aa!
-
-[![F](https://avatars2.githubusercontent.com/u/65408106?s=60&v=4)](https://github.com/ninja-js) 
-- Interview
-
-#### :point_right: PHP Slonik: Это не шутка.
-
-[![F](https://avatars2.githubusercontent.com/u/65562998?s=60&v=4)](https://github.com/php-slonik) 
-- Interview
